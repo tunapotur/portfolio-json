@@ -227,7 +227,7 @@
       "explanation": "I developed this webpage to share my CV using React and Supabase. Please use the buttons on the right-hand side to access the site and source code.",
       "gitHub": "https://github.com/tunapotur/react-portfolio",
       "lib": "https://react.dev/",
-      "webPage": "",
+      "webPage": "https://tuna-react-portfolio.vercel.app",
       "language": "en",
       "fk_userId": "1"
     },
